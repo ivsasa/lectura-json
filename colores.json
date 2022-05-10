@@ -1,5 +1,5 @@
 {
-    "colores":["Azul","Verde","Amarillo"],
+    "colores":["Azul","Verde","Amarillo","Gris","Rosa"],
     "numeros":[1,2,3,4,5],
     "nombre":{
         "firstname":"Ivonne",
